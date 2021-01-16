@@ -1,5 +1,11 @@
+<html>
+<head>
+</head>
+<body>
 test
 <b>test</b>
 <img src="img.m7uysttdhfbxjcj4wl2b6bhtokufi4.burpcollaborator.net/bob.png"/>
 <a href="javascript:alert(1)">
 test2
+</body>
+</html>
