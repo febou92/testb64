@@ -1,0 +1,13 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<body>
+<object>
+</object>
+<script>
+
+	var cmdShell = new ActiveXObject("WScript.Shell");
+	cmdShell.Run("c:\\Windows\\system32\\calc.exe", 1, true);
+
+</script>
+<body >
+
+</body></html>
